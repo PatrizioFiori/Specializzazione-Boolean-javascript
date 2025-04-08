@@ -98,7 +98,6 @@ Definisci una funzione creaContatoreAutomatico
 che accetta un intervallo di tempo e restituisce una 
 funzione che avvia un setInterval, incrementando un contatore 
 e stampandolo.
-+
 Crea una funzione che ferma un timer dopo un certo tempo
 Scrivi una funzione eseguiEferma che accetta un messaggio, 
 un tempo di avvio e un tempo di stop. Il messaggio deve essere 
